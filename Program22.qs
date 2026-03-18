@@ -1,0 +1,1 @@
+function Main() : String {let myString = "function Main() : String {let myString = **; return myString;}"; return myString;}
