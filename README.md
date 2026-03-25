@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Visual_Studio_Code
 
 https://en.wikipedia.org/wiki/Self-replicating_machine
 
-Note: You Must Use ASCII Letters For Q# Filenames... 
+Note: You Must Use ASCII Letters For Q# Source Code Filenames... 
 
 ~alCoPaUL,HAsAsIN[NaCl],beth GviLLErMo[GIMO],Zelotes ni Isa[ZnI],Brigada Ocho[b8] | for Evelyn Trainor-Fogleman #16
 
