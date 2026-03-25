@@ -1,1 +1,0 @@
-function Main() : String {open Std.OpenQASM.Convert; let myString = "function Main() : String {open Std.OpenQASM.Convert; let myString = \"function Main() : String {open Std.OpenQASM.Convert; let myString = |;return myString;}//alCoPaUL[NaCl][GIMO][ZnI][b8] & YOU\";return myString;}//alCoPaUL[NaCl][GIMO][ZnI][b8] & YOU";return myString;}//alCoPaUL[NaCl][GIMO][ZnI][b8] & YOU
