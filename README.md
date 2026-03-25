@@ -1,5 +1,5 @@
 FIRST EVER MICROSOFT Q# PROGRAMMING QUINE THAT RUNS ON THE LATEST Q# LANGUAGE API AND QUANTUM DEVELOPMENT KIT...
 
-~alCoPaUL, HAsAsIN[NaCl],beth GviLLErMo[GIMO],Zelotes ni Isa[ZnI],Brigada Ocho[b8[ | for Evelyn Trainor-Fogleman
+~alCoPaUL, HAsAsIN[NaCl],beth GviLLErMo[GIMO],Zelotes ni Isa[ZnI],Brigada Ocho[b8] | for Evelyn Trainor-Fogleman
 
 MARCH 25, 2026 / NYC
