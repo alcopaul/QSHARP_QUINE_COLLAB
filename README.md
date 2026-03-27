@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Self-replicating_machine
 
 Note: You Must Use ASCII Letters For Q# Source Code Filenames... 
 
-~alCoPaUL,HAsAsIN[NaCl],beth GviLLErMo[GIMO],Zelotes ni Isa[ZnI],Brigada Ocho[b8] | for Evelyn Trainor-Fogleman #16
+~alCoPaUL,HAsAsIN[NaCl],beth GviLLErMo[GIMO],Zelotes ni Isa[ZnI],Brigada Ocho[b8] | for Evelyn Trainor-Fogleman #16 & Kate Marie Martin #27
 
 FINAL EDITION: MARCH 27, 2026 / NYC
 
