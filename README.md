@@ -14,6 +14,8 @@ Note: You Must Use ASCII Letters For Q# Source Code Filenames...
 
 ~alCoPaUL,HAsAsIN[NaCl],beth GviLLErMo[GIMO],Zelotes ni Isa[ZnI],Brigada Ocho[b8] | for Evelyn Trainor-Fogleman #16 & Kate Marie Martin #27
 
-FINAL EDITION: MARCH 27, 2026 | NYC
+FINAL EDITION: MARCH 29, 2026 \ NYC
+
+SEDOND EDITION: MARCH 27, 2026 | NYC
 
 FIRST EDITION: MARCH 25, 2026 / NYC
